@@ -14,6 +14,9 @@
                 <asp:TableCell>
                     <asp:Button ID="btnTest" runat="server" Text="Test Button" />
                 </asp:TableCell>
+                <asp:TableCell>
+                    <asp:Button ID="btn2" runat="server" Text="Test Button" />
+                </asp:TableCell>
 
             </asp:TableRow>
         </asp:Table>
